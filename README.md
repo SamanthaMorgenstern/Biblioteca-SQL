@@ -11,9 +11,9 @@ Biblioteca-SQL/
 
 ## 🚀 Como Usar
 1. Abra seu sistema de banco de dados (MySQL, PostgreSQL, etc.).
-2. Execute o script `1_criacao_tabelas.sql` para criar as tabelas do banco.
-3. Execute o script `2_insercao_dados.sql` para inserir dados de exemplo.
-4. Execute o script `3_consultas.sql` para visualizar consultas úteis. 
+2. Execute o script `1_Criação_tabelas.sql` para criar as tabelas do banco.
+3. Execute o script `2_Insercao_dados.sql` para inserir dados de exemplo.
+4. Execute o script `3_Consultas.sql` para visualizar consultas úteis. 
 
 ## 🧠 Conceitos Usados
 - Relacionamentos 1:N e N:N
